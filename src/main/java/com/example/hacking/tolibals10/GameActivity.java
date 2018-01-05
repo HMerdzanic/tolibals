@@ -15,6 +15,7 @@ public class GameActivity extends Activity {
         View ballView = new GameDraw(this);
         setContentView(ballView);
         ballView.setBackgroundColor(Color.argb(140,15,105,15));
+        // Hamza je car
 
     }
 }
